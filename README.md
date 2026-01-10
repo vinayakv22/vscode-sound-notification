@@ -120,7 +120,7 @@ Click the indicator to quickly toggle sound notifications.
 
 ## 🤝 Contributing
 
-Found a bug or have a feature request? Please open an issue on our [GitHub repository](https://github.com/your-username/vscode-sound-notification).
+Found a bug or have a feature request? Please open an issue on our [GitHub repository](https://github.com/batdimoiprint/vscode-sound-notification).
 
 ## 📄 License
 
